@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Queue\Section8-Queue\bin\Debug\Section8-Queue.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Queue\Section8-Queue\bin\Debug\Section8-Queue.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Queue\Section8-Queue\bin\Debug\Section8-Queue.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Queue\Section8-Queue\obj\Debug\Section8-Queue.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Queue\Section8-Queue\obj\Debug\Section8-Queue.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Queue\Section8-Queue\obj\Debug\Section8-Queue.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Queue\Section8-Queue\obj\Debug\Section8-Queue.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Queue\Section8-Queue\obj\Debug\Section8-Queue.pdb
